@@ -1,5 +1,9 @@
 # react-router-redux-example
 
+![npm][npm-version-image]
+[![Dependency Status][dep-image]][dep-url]
+[![devDependency Status][dev-dep-image]][dev-dep-url]
+
 > React + react-router + redux + webpack starter project
 
 This repository was created to demonstrate a simple application that uses redux and react-router-redux to pass data throughout the application using the container pattern.
