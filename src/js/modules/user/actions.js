@@ -16,7 +16,7 @@ function storeUser(user){
 export function getUser(){
 	const storedUser = localStorage.getItem('example.user');
 
-	return (storedUser !== 'null') ? JSON.parse(storedUser) : initialState;
+	return (storedUser !== null) ? JSON.parse(storedUser) : initialState;
 }
 
 export function resetUser(){
