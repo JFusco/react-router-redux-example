@@ -33,9 +33,15 @@ sudo npm install -g webpack
 $ npm install
 ```
 
+### Compile
+from the root:
+```sh
+$ webpack
+```
+
 ### Run project
 ```sh
-$ npm run dev
+$ npm start
 ```
 **Open your browser and navigate to localhost:8080**
 

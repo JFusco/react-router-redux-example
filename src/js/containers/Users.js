@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { fetchUsers } from '../actions/users';
+import { fetchUsers } from '../modules/users/actions';
 import Users from '../components/Users';
 
 const mapStateToProps = state => {

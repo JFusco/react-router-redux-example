@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { updateUser, resetUser } from '../actions/user';
+import { updateUser, resetUser } from '../modules/user/actions';
 import EditUser from '../components/EditUser';
 
 const mapStateToProps = state => {
