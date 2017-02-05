@@ -47,6 +47,6 @@ $ npm start
 
 [npm-version-image]: https://img.shields.io/npm/v/npm.svg?maxAge=2592000
 [dev-dep-image]: https://david-dm.org/JFusco/react-router-redux-example/dev-status.svg
-[dev-dep-url]: https://david-dm.org/JFusco/react-router-redux-example#info=devDependencies
+[dev-dep-url]: https://david-dm.org/JFusco/react-router-redux-example#info=dev
 [dep-image]: https://img.shields.io/david/JFusco/react-router-redux-example.svg
 [dep-url]: https://david-dm.org/JFusco/react-router-redux-example
